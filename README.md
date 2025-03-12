@@ -8,14 +8,14 @@ I'm Johan, a Data Science and Management student who is passionate about working
 - Would not mind more experience with backend and frontend development for a website or application
 - Learning Artificial Intelligence (AI) and database design
 
-## Projects
+## 🖥️ Projects
 Welcome to my data science portfolio, where I showcase the projects I have been working on in my previous work experiences, as well as projects I have done for fun.
 
-## Skills
+## 📈 Skills
 - Language: Python, JavaScript, HTML, SQL
 - Statistics: RStudio, R
 - Data analysis using Microsoft Excel and Google Sheets
 
-## How to Reach Me?
+## 📧 How to Reach Me?
 - Linkedin
 - Email: johan.carlo.ilagan@gmail.com
