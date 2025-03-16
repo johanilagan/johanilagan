@@ -1,5 +1,7 @@
 # Hi there 👋 Nice to meet you!
 
+![sample_five_2 0_2](https://github.com/user-attachments/assets/f7b2253e-69ea-486c-a89b-9a1bc041fa50)
+
 ## 😌 About Me
 I'm Johan, a Data Science and Management student who is passionate about working **data, analytics, and web development**. I enjoy coding to develop websites and to transform raw data into applicable and helpful insights. 
 - I'm currently contributing to developing **a condominium management application**
