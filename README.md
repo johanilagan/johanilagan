@@ -37,7 +37,7 @@ Role-Based Access: Property Admin, Corporate Admin, Developer Team, Security, Ma
 **My Contribution:**  
 I helped in developing the frontend of **dashboard page**, which provides a centralized view of key metrics and activity such as recent payments, visitors, parcels, and service requests. I built React components, and focused on responsive UI/UX.
 
-## Data Warehouse Projects
+## Case Study Projects
 ### [Data Analysis and Data Warehouse Case Study](https://github.com/johanilagan/johanilagan/blob/main/docs/Data%20Analysis%20and%20Data%20Warehouse.pdf)
 This case study focuses on designing and implementing a data warehouse to support business intelligence and data analysis needs, based on a comprehensive database of crashes and fatalities in Western Australia. The project covers the full lifecycle of data warehousing including schema design, modeling, and data processing.
 
@@ -59,6 +59,26 @@ Key aspects of the project include:
 - Providing real-world examples of use cases where graph analytics can optimize decision-making.
 
 This study highlights the effectiveness of graph database modeling in enhancing data-driven strategies and operational efficiency.
+
+### [Comparing Demographic Trends in Australia and Canada using Jupyter Notebook](https://github.com/johanilagan/johanilagan/blob/main/docs/Data%20Analysis_Jupyter%20Notebook.ipynb)
+This project explores the potential relationships between Age and Gender with an individual's Highest Education Level using datasets from Australia and Canada. It follows the data science life cycle and is organized into six key sections:
+
+Section 1: Framing the research question and objectives.
+Section 2: Data Acquisition — Collecting relevant demographic data.
+Section 3: Data Cleaning — Preparing and refining the dataset for analysis.
+Section 4: Data Conversion — Transforming data into suitable formats for modeling.
+Section 5: Plotting and Graphing — Visualizing data trends and relationships.
+Section 6: Presentation of Results — Summarizing insights and documenting findings.
+
+The analysis is conducted using Jupyter Notebook, demonstrating practical application of data science methods to uncover meaningful demographic patterns. It also uses Python -- pandas and csv modules.
+
+
+### [Data Analysis using RStudio](https://github.com/johanilagan/johanilagan/blob/main/docs/Data%20Analysis_RStudio.pdf)
+This case study investigates the relationship between low birth weight in newborns and various maternal health variables using logistic regression modeling in RStudio. The study begins with descriptive statistical analysis, followed by the construction of three logistic regression models:
+- A full model including all variables (no interaction terms)
+- A reduced model selected via the stepAIC() function
+- A manually optimized model by eliminating statistically insignificant predictors via ANOVA
+This study highlights the power of statistical modeling in identifying key maternal health risk factors and supporting data-driven healthcare decisions.
 
 # 📈 Skills
 - Language: Python, JavaScript, HTML, SQL
