@@ -60,15 +60,20 @@ Key aspects of the project include:
 
 This study highlights the effectiveness of graph database modeling in enhancing data-driven strategies and operational efficiency.
 
-### [Comparing Demographic Trends in Australia and Canada using Jupyter Notebook](https://github.com/johanilagan/johanilagan/blob/main/docs/Data%20Analysis_Jupyter%20Notebook.ipynb)
+### [Comparing Demographic Trends in Australia and Canada using Jupyter Notebook](https://github.com/johanilagan/census-education-analysis)
 This project explores the potential relationships between Age and Gender with an individual's Highest Education Level using datasets from Australia and Canada. It follows the data science life cycle and is organized into six key sections:
 
-Section 1: Framing the research question and objectives.
-Section 2: Data Acquisition — Collecting relevant demographic data.
-Section 3: Data Cleaning — Preparing and refining the dataset for analysis.
-Section 4: Data Conversion — Transforming data into suitable formats for modeling.
-Section 5: Plotting and Graphing — Visualizing data trends and relationships.
-Section 6: Presentation of Results — Summarizing insights and documenting findings.
+> Section 1: Framing the research question and objectives.
+
+> Section 2: Data Acquisition — Collecting relevant demographic data.
+
+> Section 3: Data Cleaning — Preparing and refining the dataset for analysis.
+
+> Section 4: Data Conversion — Transforming data into suitable formats for modeling.
+
+> Section 5: Plotting and Graphing — Visualizing data trends and relationships.
+
+> Section 6: Presentation of Results — Summarizing insights and documenting findings.
 
 The analysis is conducted using Jupyter Notebook, demonstrating practical application of data science methods to uncover meaningful demographic patterns. It also uses Python -- pandas and csv modules.
 
