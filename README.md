@@ -78,7 +78,7 @@ This project explores the potential relationships between Age and Gender with an
 The analysis is conducted using Jupyter Notebook, demonstrating practical application of data science methods to uncover meaningful demographic patterns. It also uses Python -- pandas and csv modules.
 
 
-### [Data Analysis using RStudio](https://github.com/johanilagan/johanilagan/blob/main/docs/Data%20Analysis_RStudio.pdf)
+### [A Study on the Effect of Maternal Risk Factors on Low Birth Weight](https://github.com/johanilagan/lbw-rstudio-analysis)
 This case study investigates the relationship between low birth weight in newborns and various maternal health variables using logistic regression modeling in RStudio. The study begins with descriptive statistical analysis, followed by the construction of three logistic regression models:
 - A full model including all variables (no interaction terms)
 - A reduced model selected via the stepAIC() function
