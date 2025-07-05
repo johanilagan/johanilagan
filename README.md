@@ -38,17 +38,22 @@ Role-Based Access: Property Admin, Corporate Admin, Developer Team, Security, Ma
 I helped in developing the frontend of **dashboard page**, which provides a centralized view of key metrics and activity such as recent payments, visitors, parcels, and service requests. I built React components, and focused on responsive UI/UX.
 
 ## Case Study Projects
-### [Data Analysis and Data Warehouse Case Study](https://github.com/johanilagan/johanilagan/blob/main/docs/Data%20Analysis%20and%20Data%20Warehouse.pdf)
-This case study focuses on designing and implementing a data warehouse to support business intelligence and data analysis needs, based on a comprehensive database of crashes and fatalities in Western Australia. The project covers the full lifecycle of data warehousing including schema design, modeling, and data processing.
+### [Data Analysis and Data Warehouse Case Study](https://github.com/johanilagan/crashes-fatalities-data-warehouse)
+This case study presents a full-scale data warehouse project focused on analyzing road crashes and fatalities across Australia. The project supports data-driven insights for public safety and road planning, aligning with national initiatives such as Vision Zero. It demonstrates the complete data warehousing lifecycle, from schema design and ETL to business analytics and policy recommendations.
 
 Key components of the project:
-- Designing a robust data warehouse schema tailored to the traffic safety domain.
-- Formulating star schema models to optimize query performance and data organization.
-- Developing and executing ETL (Extract, Transform, Load) processes to consolidate and prepare crash and fatality data from various sources.
-- Writing business queries to extract meaningful insights related to crash patterns, fatality statistics, and risk factors.
-- Analyzing data to uncover trends and support strategic road safety planning.
 
-This project highlights the importance of well-structured data warehousing and effective data integration in enabling powerful analytics for public safety.
+- 🧱 Schema & Dimensional Modeling: Designed a star schema to support efficient querying and multidimensional analysis of crash and fatality data.
+
+- ⚙️ ETL Pipeline: Developed and executed an ETL process using Python and PostgreSQL to clean, transform, and load data from the BITRE Road Fatalities Database.
+
+- 📊 Business Queries: Answered complex queries to reveal insights on high-risk demographics, crash conditions, holiday effects, and location-based patterns.
+
+- 📈 Data Visualization: Built interactive charts using Tableau to communicate findings and support stakeholders in road safety planning.
+
+- 🧠 Association Rule Mining: Applied the Apriori algorithm to identify strong crash-related patterns for policy recommendations.
+
+This project showcases how structured data integration and dimensional modeling can enable advanced analytics that inform government strategies and reduce road fatalities nationwide.
 
 ### [Cypher Queries and Graph Database Modelling Case Study](https://github.com/johanilagan/johanilagan/blob/main/docs/Cypher_Graph-Database.pdf)
 This case study demonstrates how graph database technology and the Cypher query language can be leveraged to efficiently solve complex business queries and extract valuable insights from interconnected data. By modeling the business domain as a graph, relationships between entities become explicit and navigable, enabling more intuitive and powerful analysis compared to traditional relational databases. It solves business queries formulated from a database about crashes and fatality incidents in Western Australia.
